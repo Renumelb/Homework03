@@ -1,2 +1,2 @@
 # Homework03
-This repository contains the Pandas assignment
+This assignment will use what I have learnt in the Fintech Boot Camp so far to evaluate the performance of algorithmic, hedge and mutual funds and compare these against the S & P 500 index. 
